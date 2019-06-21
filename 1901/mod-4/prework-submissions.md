@@ -71,7 +71,7 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 ## Kristen Hallstrom
 
 * [Node Server Tutorial](https://github.com/Klhalls89/Node-prework)
-* [Annotated Express server file]()
+* [Annotated Express server file](https://github.com/Klhalls89/trapper-keeper-api/blob/notesOnApp/app.js)
 * [Promise Practice Exercises]()
 
 ## Lauren Boyer
