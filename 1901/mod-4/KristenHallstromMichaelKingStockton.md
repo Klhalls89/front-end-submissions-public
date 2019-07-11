@@ -1,0 +1,75 @@
+# Palette Picker Submission Form
+
+ [Project Spec](http://frontend.turing.io/projects/palette-picker.html)
+
+ # Basics
+
+ #### Link to the GitHub Repository for the BE
+[palette-picker BE]https://github.com/KStockton/BE-Palette-Picker
+
+ #### Link to the Deployed BE
+[heroku BE] Micheal has this link
+
+ #### Link to the GitHub Repository for the FE
+[palette-picker FE](https://github.com/Klhalls89/FE-Palette-Picker)
+
+ #### Link to the Deployed FE
+[heroku FE](https://dashboard.heroku.com/apps/genhex)
+
+ ## Completion
+
+ #### Were you able to complete the base functionality?
+
+ Some of it
+
+ #### Link to an image of your wireframe(s)
+- On GitHub FE repository
+
+ #### Which extensions, if any, did you complete?
+ 
+ - N/A
+
+ # Code Quality
+
+ #### Link to a specific block of your code on GitHub (from either repository) that you are proud of
+[Link here](https://github.com/Klhalls89/FE-Palette-Picker/blob/master/src/components/App/App.js)
+
+ * Why were you proud of this piece of code?  
+line 43 - 56 to populate colors to edit on the top. 
+
+ #### Link to a specific block of your code on GitHub that you feel not great about
+[Link here](https://github.com/Klhalls89/FE-Palette-Picker/blob/master/src/components/App/App.js)
+
+ * Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+129 -179, could have been refactored, ran out of time
+
+ #### Link to Design Inspiration
+
+ * Show us what you used as design inspiration (another color picker site, a dribbble UI element, a user flow, etc.) and explain what you stole from it  
+[link here](https://coolors.co/)
+
+ #### Reflection on New Concepts
+
+ * Describe your thoughts on server-side testing  
+ Server side testin was easier then front testing
+
+
+ # Instructor Feedback (Instructor Name)
+
+ ## Specification Adherence
+
+ **x score**: 
+
+ ## User Interface
+
+ **x score**: 
+
+ ## Testing
+
+ **x score**: 
+
+ ## Workflow
+
+ **x score**: 
+
+ # Outcome: pass/fail
